@@ -24,6 +24,6 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahbazsiddeeq/OpenTerra.git```
+   git clone https://github.com/shahbazsiddeeq/OpenTerra.git
 
-   or you can download directly
+or download directly
