@@ -29,9 +29,12 @@ To run the project locally, follow these steps:
 2. Go to Project directory
   ```bash
   cd OpenTerra
-3. Run the following commands for backend libraries installation
+
+3. Go to Backend directory first
   ```bash
   cd Backend
+
+4.Run the following commands for backend libraries installation
   ```bash
   pip install fastapi uvicorn python-dotenv openai requests shapely sqlalchemy 
 
