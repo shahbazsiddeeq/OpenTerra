@@ -26,17 +26,14 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/shahbazsiddeeq/OpenTerra.git
 
-2. Go to Project directory
-  ```bash
-  cd OpenTerra
+2. First go to Backend directory:
+    ```bash
+    cd OpenTerra/Backend
 
-3. Clone the repository or download diorectly from the browser:
-   ```bash
-   git clone https://github.com/shahbazsiddeeq/OpenTerra.git
+3. Run the following commands in backend directory for libraries installation:
+    ```bash
+    pip install fastapi uvicorn python-dotenv openai requests shapely sqlalchemy
 
-4. Go to Project directory
-  ```bash
-  cd OpenTerra 
-
-
-
+4. Run the following command for backend run:
+    ```bash
+    python -m uvicorn main:app --reload
