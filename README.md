@@ -22,8 +22,16 @@ The project structure is organized as follows:
 ## Installation and Setup
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository or download diorectly from the browser:
    ```bash
    git clone https://github.com/shahbazsiddeeq/OpenTerra.git
 
-or download directly
+2. Go to Project directory
+  ```bash
+  cd OpenTerra
+3. Run the following commands for backend libraries installation
+  ```bash
+  cd Backend
+  ```bash
+  pip install fastapi uvicorn python-dotenv openai requests shapely sqlalchemy 
+
