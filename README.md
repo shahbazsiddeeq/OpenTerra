@@ -18,3 +18,10 @@ The project structure is organized as follows:
     - `test.db`: sqlite db
   - `.env` 
 - `README.md`: This file.
+
+## Installation and Setup
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-project.git
