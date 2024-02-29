@@ -28,5 +28,15 @@ To run the project locally, follow these steps:
 
 2. Go to Project directory
   ```bash
+  cd OpenTerra
+
+3. Clone the repository or download diorectly from the browser:
+   ```bash
+   git clone https://github.com/shahbazsiddeeq/OpenTerra.git
+
+4. Go to Project directory
+  ```bash
   cd OpenTerra 
+
+
 
