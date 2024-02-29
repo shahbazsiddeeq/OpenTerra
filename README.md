@@ -48,5 +48,4 @@ To run the project locally, follow these steps:
     npm install
     npm i three
     npm run dev
-you will get local url
-Local:   http://localhost:5173/
+You will get Local URL: http://localhost:5173/
