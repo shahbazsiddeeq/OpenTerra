@@ -97,7 +97,7 @@ def call_chat_gpt_api(chatId, prompt, polygon_area):
         # Adding the user's question to the prompt
         url = 'https://api.openai.com/v1/chat/completions'
         headers = {
-            'Authorization': 'Bearer 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',
+            'Authorization': 'Bearer sk-place-your-key', #place your openAI key
             'Content-Type': 'application/json',
         }
 
